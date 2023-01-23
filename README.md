@@ -4,7 +4,7 @@ My name is Antonin, I am a French programming student and I use GitHub to host m
 😁I hope you enjoy my profile and that you will explore and enjoy my projects.
 
 
-![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge)  [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio)  [![](https://www.codewars.com/users/AntoninSIO/badges/large?style=for-the-badge)](https://www.codewars.com/users/AntoninSIO)
+![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge)  [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio)  [![](https://img.shields.io/badge/my_CodeWar_Profile-b1361e?style=for-the-badge)](https://www.codewars.com/users/AntoninSIO)
 <!--
 **antoninpicard/antoninpicard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
