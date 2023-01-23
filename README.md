@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Antonin, I am a French programming student and I use GitHub to post my projects for a few years.
-
+My name is Antonin, I am a French programming student and I use GitHub to host my projects for a few years.
+😁I hope you enjoy my profile and that you will explore and enjoy my projects.
 
 <!--
 **antoninpicard/antoninpicard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
