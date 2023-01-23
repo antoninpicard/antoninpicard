@@ -3,6 +3,8 @@ My name is Antonin, I am a French programming student and I use GitHub to host m
 
 😁I hope you enjoy my profile and that you will explore and enjoy my projects.
 
+
+![](https://komarev.com/ghpvc/?username=antoninpicard&style=flat-square)
 <!--
 **antoninpicard/antoninpicard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
