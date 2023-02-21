@@ -9,3 +9,7 @@ My name is Antonin, I am a French programming student and I use GitHub to host m
 ![Antonin's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoninpicard&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoninpicard&layout=compact)](https://github.com/antoninpicard/github-readme-stats)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoninpicard&show_icons=true&locale=en&layout=compact" alt="antoninpicard" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=antoninpicard&show_icons=true&locale=en" alt="antoninpicard" /></p>
