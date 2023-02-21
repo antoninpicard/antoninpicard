@@ -8,4 +8,4 @@ My name is Antonin, I am a French programming student and I use GitHub to host m
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoninpicard&show_icons=true&locale=en&layout=compact" alt="antoninpicard" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=antoninpicard&show_icons=true&locale=en&hide=contribs&hide=issues" alt="antoninpicard" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=antoninpicard&show_icons=true&locale=en&hide=contribs,issues" alt="antoninpicard" /></p>
