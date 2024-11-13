@@ -4,7 +4,7 @@ My name is Antonin, and I have been a French programming student for a few years
 ### About me 🌱
 I'm a coding enthusiast and love learning about everything in general. I enjoy contributing to open-source projects, honing my skills, and learning from other developers.
 
-When I'm not coding, you can find me immersed in books, cooking, or playing video games. You can learn more about my work and projects on my [Portfolio](http://www.antoninpicard.com). Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/antonin-picard/](https://www.linkedin.com/in/antonin-picard/)).
+When I'm not coding, you can find me immersed in books, cooking, or playing video games. You can learn more about my work and projects on my [Portfolio](http://www.antoninpicard.com). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antonin-picard/).
 
 😁 I hope you enjoy my profile and explore my projects.
 
