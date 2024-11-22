@@ -8,6 +8,6 @@ When I'm not coding, you can find me immersed in books, cooking, or playing vide
 
 😁 I hope you enjoy my profile and explore my projects.
 
-Happy coding! 💻
+Happy coding! 💻 
 
 ![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge) [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio-website-master) [![](https://img.shields.io/badge/my_CodeWars_Profile-b1361e?style=for-the-badge)](https://www.codewars.com/users/AntoninPicard)
