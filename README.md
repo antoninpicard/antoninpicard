@@ -10,5 +10,7 @@ When I'm not coding, you can find me immersed in books, cooking, or playing vide
 
 Happy coding! 💻 
 
-![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge) [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio-website-master) [![](https://img.shields.io/badge/my_CodeWars_Profile-b1361e?style=for-the-badge)](https://www.codewars.com/users/AntoninPicard) [![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard)
+![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge) [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio-website-master)  [![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard)
  
+[![](https://www.codewars.com/users/AntoninPicard/badges/small)](https://www.codewars.com/users/AntoninPicard)
+
