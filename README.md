@@ -1,16 +1,36 @@
-### Hi there 👋
-My name is Antonin, and I have been a French programming student for a few years. I have been using GitHub to host my projects.
+# Antonin Picard
 
-### About me 🌱
-I'm a coding enthusiast and love learning about everything in general. I enjoy contributing to open-source projects, honing my skills, and learning from other developers.
+**Étudiant à 42 Lyon** · Systèmes embarqués · Programmation bas niveau
 
-When I'm not coding, you can find me immersed in books, cooking, or playing video games. You can learn more about my work and projects on my [Portfolio](http://antoninpicard.com). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antonin-picard-078a36360/).
+<a href="http://antoninpicard.com">
+  <img src="https://img.shields.io/badge/📂_antoninpicard.com-E8E8E8?style=for-the-badge" alt="Portfolio" />
+</a>
 
-😁 I hope you enjoy my profile and explore my projects.
+[![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-picard-078a36360/) ![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge)
 
-Happy coding! 💻 
+---
 
-![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge) [![](https://img.shields.io/badge/my_repos_portfolio-EFE7CE?style=for-the-badge)](https://github.com/antoninpicard/Portfolio-website-master)  [![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard)
- 
+### Compétences
+
+**Langages principaux**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+**Embarqué & Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+**Protocoles & Outils**
+
+![UART](https://img.shields.io/badge/UART-444?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-444?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-444?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### Centres d'intérêt
+
+Robotique · Électronique / DIY · Lecture · Jeux vidéo
+
+---
+
 [![](https://www.codewars.com/users/antoninpicard/badges/large)](https://www.codewars.com/users/antoninpicard)
-
