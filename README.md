@@ -5,9 +5,6 @@
 <a href="http://antoninpicard.com">
   <img src="https://img.shields.io/badge/📂_antoninpicard.com-E8E8E8?style=for-the-badge" alt="Portfolio" />
 </a>
-
-[![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-picard-078a36360/) ![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge)
-
 ---
 
 ### Compétences
@@ -28,3 +25,5 @@
 ---
 
 [![](https://www.codewars.com/users/antoninpicard/badges/large)](https://www.codewars.com/users/antoninpicard)
+
+[![](https://img.shields.io/badge/%20Lyon-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/anpicard) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonin-picard-078a36360/) ![](https://komarev.com/ghpvc/?username=antoninpicard&style=for-the-badge)
