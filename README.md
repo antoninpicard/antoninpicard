@@ -27,10 +27,4 @@
 
 ---
 
-### Centres d'intérêt
-
-Robotique · Électronique / DIY · Lecture · Jeux vidéo
-
----
-
 [![](https://www.codewars.com/users/antoninpicard/badges/large)](https://www.codewars.com/users/antoninpicard)
