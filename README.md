@@ -5,7 +5,7 @@
 <a href="http://antoninpicard.com">
   <img src="https://img.shields.io/badge/📂_antoninpicard.com-E8E8E8?style=for-the-badge" alt="Portfolio" />
 </a>
----
+
 
 ### Compétences
 
